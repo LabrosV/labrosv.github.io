@@ -2,21 +2,21 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Lampros Svolos
+#    - name: Date of Birth
+#      value: 14th March 1879
     - name: Languages
-      value: English, German
+      value: English, Greek, French
 
 - title: Education
   type: time_table
   contents:
     - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+      institution: Columbia University, New York, USA
+      year: 2020
       description:
-        - Description 1.
-        - Description 2.
+        - Department of Civil Engineering and Engineering Mechanics
+        - Computational Mechanics Group \- Supervised by Prof. Haim Waisman
         - title: Description 3.
           contents:
             - Sub-description 1.
