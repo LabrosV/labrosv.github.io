@@ -1,6 +1,6 @@
 ---
 layout: about
-title: About
+title: Bio
 permalink: /
 subtitle: Postdoctoral Research Associate # <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
@@ -18,7 +18,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Lampros is a Postdoctoral Research Associate in the Fluid Dynamics and Solid Mechanics Group (T-3), Theoretical Division. His research focuses on the development of analytical and numerical techniques at the intersection of mechanics and applied mathematics, with application to thermomechanical problems including localized failure modes such as shear bands and fracture. 
+Lampros is a Postdoctoral Research Associate at Los Alamos National Laboratory in the Fluid Dynamics and Solid Mechanics Group (T-3), Theoretical Division. His research focuses on the development of analytical and numerical techniques at the intersection of mechanics and applied mathematics, with application to thermomechanical problems including localized failure modes such as shear bands and fracture. 
 
 [//]: #  "Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.) "
 
