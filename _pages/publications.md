@@ -4,8 +4,8 @@ permalink: /publications/
 title: Publications
 description: Peer-reviewed journal publications in reversed chronological order
 years: [2022, 2021, 2020]
-nav: false
-nav_order: 1
+nav: true
+nav_order: 2
 ---
 <!-- _pages/publications.md -->
 <div class="publications">

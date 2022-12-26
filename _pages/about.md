@@ -1,6 +1,6 @@
 ---
 layout: about
-title: Bio
+title: About
 permalink: /
 subtitle: Postdoctoral Research Associate # <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
