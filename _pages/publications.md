@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: Peer-reviewed journal publications in reversed chronological order
+description: Peer-reviewed journal publications and preprints in reversed chronological order
 years: [2022, 2021, 2020]
 nav: true
 nav_order: 2
