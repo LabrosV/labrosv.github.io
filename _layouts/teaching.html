@@ -14,7 +14,7 @@ layout: default
               {% for entry in site.data.courses %}
                 <div class="card mt-3 p-3">
                   <h3 class="card-title font-weight-medium">{{ entry.position }}</h3>
-                  <p class="card-title font-weight-medium">{{ page.department }}</p>
+                  <p class="card-title font-weight-medium">{{ entry.department }}</p>
                   <div>
                   {% if entry.type == "course" %}
                     {% include teaching/course.html %}
