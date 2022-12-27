@@ -12,6 +12,24 @@
         </div>
       </div>
       <h6 class="font-italic mt-2 mt-sm-0">{{content.year}}</h6>
+        {% if content.description %}
+          <ul class="items">
+            {% for item in content.description %}
+              <li>
+                {% if item.contents %}
+                  <span class="item-title">{{ item.title }}</span>
+                  <ul class="subitems">
+                  {% for subitem in item.contents %}
+                    <li><span class="subitem">{{ subitem }}</span></li>
+                  {% endfor %}
+                  </ul>
+                {% else %}
+                  <span class="item">{{ item }}</span>
+                {% endif %}
+              </li>
+            {% endfor %}
+          </ul>
+        {% endif %}
     </div>
   {% endfor %}
 </ul>

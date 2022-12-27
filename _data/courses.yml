@@ -1,11 +1,16 @@
 - title: Teaching Assistant at Columbia University
   type: course
   contents:
-    - title: Introduction to Machine Learning
-      year: 2020
-      code: 10-701
+    - title: "Finite Element Analysis I"
+      year: 2016, 2019
+      code: "E4332: Engineering Mechanics"
       description:
-        - "Department: Civil Engineering and Engineering Mechanics"
-        - <a href="http://www.columbia.edu/cu/civileng/waisman/">Computational Mechanics Group</a> |- Supervised by Prof. Haim Waisman
-        - "Dissertation: Efficient Computational Methods in Coupled Thermomechanical Problems: Shear Bands and Fracture of Metals"
+        - Offered Matlab and Abaqus lectures
+        - Developed tutorial materials and homework
 
+    - title: "Experimental Mechanics of Materials"
+      year: 2017, 2018
+      code: "E3114: Engineering Mechanics"
+      description:
+        - Presented a series of weekly experiments at Carleton Laboratory
+        - Conducted Charpy impact test and torsion test
