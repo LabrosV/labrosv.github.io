@@ -1,5 +1,5 @@
 ---
-layout: page 
+layout: teaching 
 permalink: /teaching/
 title: Teaching
 description: Courses and responsibilities.
@@ -7,7 +7,9 @@ nav: true
 nav_order: 3
 ---
 
-<h3 class="mt-4">carnegie mellon university</h3>
+<!--
+<h3 class="mt-4">Columbia University</h3>
+
 
 <div class="card mt-3">
   <div class="p-3">
@@ -54,6 +56,8 @@ nav_order: 3
     </ul>
   </div>
 </div>
+-->
+
 
 <!--
 <h3 class="mt-4">random stuff</h3>
