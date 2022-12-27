@@ -6,7 +6,7 @@
 #    - name: Date of Birth
 #      value: 14th March 1879
     - name: Languages
-      value: English, Greek, French
+      value: Greek (native), English (fluent), and French (elementary)
 
 - title: Education
   type: time_table
@@ -16,7 +16,7 @@
       year: 2020
       description:
         - "Department: Civil Engineering and Engineering Mechanics"
-        - <a href="http://www.columbia.edu/cu/civileng/waisman/">Computational Mechanics Group</a> |- Supervised by Prof. Haim Waisman
+        - <a href="http://www.columbia.edu/cu/civileng/waisman/">Computational Mechanics Group</a> - Supervised by Prof. Haim Waisman
         - "Dissertation: Efficient Computational Methods in Coupled Thermomechanical Problems: Shear Bands and Fracture of Metals"
     - title: MSc
       institution: National and Kapodistrian University of Athens
